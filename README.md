@@ -44,18 +44,6 @@ Building data-driven applications, scalable APIs, and analytics workflows.
 
 </p>
 
----
-
-# 📌 Featured Projects
-
-### 📊 Sales Analytics Dashboard
-Interactive business intelligence dashboard for monitoring sales trends, KPIs, and profitability insights.
-
-### ⚡ Learning Style Identification System
-Fullstack analytical system using FastAPI and Next.js with automated scoring workflows.
-
-### 🎯 Academic Performance Prediction
-Machine learning project for predicting student academic performance using classification models.
 
 ---
 
